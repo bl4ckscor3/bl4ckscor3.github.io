@@ -4,7 +4,7 @@ title: "Ceiling Torch Mod Support"
 subtitle: "Last updated: 21. August 2023"
 cover-img: /assets/img/ceiling-torch-cover.png
 thumbnail-img: /assets/img/ceiling-torch-thumbnail.png
-date: 2023-08-21 13:45:39 +0200
+date: 2023-08-21 16:32:47 +0200
 ---
 This post contains an overview of all Minecraft mods that are supported by [Ceiling Torch](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch) in different Minecraft versions.
 
