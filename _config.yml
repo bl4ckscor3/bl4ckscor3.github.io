@@ -1,0 +1,24 @@
+remote_theme: daattali/beautiful-jekyll@6.0.1
+title: Home
+author: bl4ckscor3
+timezone: "Europe/Berlin"
+avatar: "favicon.ico"
+round-avatar: true
+
+description: >-
+  Information about bl4ckscor3's projects.
+
+# navbar-links:
+#  Title: "link"
+
+social-network-links:
+  email: bl4ckscor33@gmail.com
+  github: bl4ckscor3
+  twitter: bl4ckscor3
+  discord: kgZUAxK
+
+site-css:
+  - "/assets/css/custom-styles.css"
+
+plugins:
+  - jekyll-remote-theme
