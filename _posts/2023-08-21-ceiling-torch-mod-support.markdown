@@ -35,9 +35,9 @@ I am currently in the process of properly bringing 1.19.3 and 1.19.4 up to date.
 | [Essential Features](https://www.curseforge.com/minecraft/mc-mods/essential-features)                                |        |   ✅   |   ✅   |   ✅   |        |        |        |        |        |        |
 | [Extended Lights](https://www.curseforge.com/minecraft/mc-mods/extended-lights-mod)                                  |        |        |   ✅   |   ✅   |        |        |        |        |        |        |
 | [Gaia Dimension](https://www.curseforge.com/minecraft/mc-mods/gaia-dimension)                                        |        |   ✅   |   ✅   |   ✅   |        |        |        |        |        |        |
-| [Hardcode Torches](https://www.curseforge.com/minecraft/mc-mods/hardcore-torches-forge)                              |        |        |        |        |        |   ✅   |   ✅   |        |        |        |
+| [Hardcore Torches](https://www.curseforge.com/minecraft/mc-mods/hardcore-torches-forge)                              |        |        |        |        |        |   ✅   |   ✅   |        |        |        |
 | [I Like Wood](https://www.curseforge.com/minecraft/mc-mods/i-like-wood)                                              |        |   ✅   |   ✅   |   ✅   |        |   ✅   |   ✅   |        |        |        |
-| [Ice And Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)                           |        |        |   ✅   |   ✅   |        |        |        |        |        |        |
+| [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)                           |        |        |   ✅   |   ✅   |        |        |        |        |        |        |
 | [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)                                |        |        |        |   ✅   |        |   ✅   |   ✅   |        |        |        |
 | [Inspirations](https://www.curseforge.com/minecraft/mc-mods/inspirations)                                            |        |   ✅   |   ✅   |   ✅   |        |   ✅   |        |        |        |        |
 | [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)                              |        |        |        |   ✅   |        |   ✅   |   ✅   |        |        |        |
@@ -60,7 +60,7 @@ I am currently in the process of properly bringing 1.19.3 and 1.19.4 up to date.
 | [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)                                      |        |        |        |   ✅   |        |        |   ✅   |        |        |        |
 | [TofuCraftReload](https://www.curseforge.com/minecraft/mc-mods/tofucraftreload)                                      |        |   ✅   |   ✅   |   ✅   |        |   ✅   |   ✅   |        |        |        |
 | [Torch Bandolier](https://www.curseforge.com/minecraft/mc-mods/torch-bandolier)                                      |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |        |        |
-| [Torcherino](https://www.curseforge.com/minecraft/mc-mods/torcherino)                                                |        |   ✅   |   ✅   | ✅[^1] |        |        |        |        |        |        |
+| [Torcherino](https://www.curseforge.com/minecraft/mc-mods/torcherino)                                                |        |   ✅   |   ✅   | ✅[^1] |   ❌   |   ❌   |   ❌   |   ❌   |   ❌   |   ❌   |
 | [Torchmaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster)                                              |        |   ✅   |   ✅   |   ✅   |        |   ✅   |   ✅   |        |        |        |
 | [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)                                      |        |   ✅   |   ✅   |   ✅   |        |   ✅   |        |        |        |        |
 | [Wild Nature](https://www.curseforge.com/minecraft/mc-mods/wildnature)                                               |        |   ✅   |   ✅   |        |        |        |        |        |        |        |
@@ -68,4 +68,4 @@ I am currently in the process of properly bringing 1.19.3 and 1.19.4 up to date.
 | [[SBM] Bone Torch](https://www.curseforge.com/minecraft/mc-mods/sbm-bone-torch)                                      |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |        |   ✅   |
 
 ---
-[^1]: Removed in v1.13.8, and will not be readded.
+[^1]: Removed in v1.13.8, and will not be readded ❌
