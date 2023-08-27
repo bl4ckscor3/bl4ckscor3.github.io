@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ceiling Torch Mod Support"
-subtitle: "Last updated: 25. August 2023"
+subtitle: "Last updated: 27. August 2023"
 cover-img: /assets/img/ceiling-torch-cover.png
 thumbnail-img: /assets/img/ceiling-torch-thumbnail.png
 date: 2023-08-21 16:32:47 +0200
@@ -13,12 +13,13 @@ Note, that I currently only update the mod for the following Minecraft versions,
 - 1.19.4
 - 1.20.1
 
-The same goes for broken mod integrations. If you find that the mod crashes at any point, please [report it on GitHub](https://github.com/bl4ckscor3/CeilingTorch/issues) (include the crash report!), and turn off the conflicting mod integration in Ceiling Torch's `ceiling-torch-integrations.toml` config file until a fix is released. The config file is currently unavailable and will be published in Ceiling Torch version `v1.26`.
+The same goes for broken mod integrations. If you find that the mod crashes at any point, please [report it on GitHub](https://github.com/bl4ckscor3/CeilingTorch/issues) (include the crash report!), and turn off the conflicting mod integration in Ceiling Torch's `ceiling-torch-integrations.toml` config file until a fix is released. The config file is available in Ceiling Torch version `v1.26` and above.
 
-## Mod Integrations
 ---
 
-This list is up to date as of Ceiling Torch `v1.26`. This version has not been released yet.
+## Mod Integrations
+
+This list is up to date as of Ceiling Torch `v1.26`.
 
 | Mod                                                                                                                  | 1.12.2 | 1.14.4 | 1.15.2 | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.2 | 1.19.3 | 1.19.4 | 1.20.1 |
 | -------------------------------------------------------------------------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
@@ -68,5 +69,5 @@ This list is up to date as of Ceiling Torch `v1.26`. This version has not been r
 | [[SBM] Bone Torch](https://www.curseforge.com/minecraft/mc-mods/sbm-bone-torch)                                      |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
 
 ---
-[^1]: Can't add The Midnight support, as they have turned off 3rd party downloads so I can't easily import it into my development environment. Until they change that, or CurseMaven works with 3rd party downloads turned off, there will be no support for this mod. ❌
+[^1]: Can't add The Midnight support, as they have turned off 3rd party downloads so I can't easily import it into my development environment. Until they change that, or CurseMaven works with 3rd party downloads turned off, there will be no support for this mod.
 [^2]: Removed in v1.13.8, and will not be readded in other Minecraft versions either.
