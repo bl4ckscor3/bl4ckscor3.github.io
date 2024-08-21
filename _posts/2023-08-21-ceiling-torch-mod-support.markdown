@@ -9,12 +9,12 @@ date: 2023-08-21 16:32:47 +0200
 This post contains an overview of all Minecraft mods that are supported by [Ceiling Torch](https://www.curseforge.com/minecraft/mc-mods/ceiling-torch) in different Minecraft versions.
 
 The table below shows **all** mods whose torches were ever supported by Ceiling Torch. If you are missing support for a specific mod's torches, or torches of a supported mod do not work, please [open an issue on GitHub](https://github.com/bl4ckscor3/CeilingTorch/issues) and tell me which mod you would like to see support for.\
+The same goes for broken mod integrations. If you find that the mod crashes at any point, please [report it on GitHub](https://github.com/bl4ckscor3/CeilingTorch/issues) (include the crash report!), and turn off the conflicting mod integration in Ceiling Torch's `ceiling-torch-integrations.toml` config file until a fix is released. The config file is available in Ceiling Torch version `v1.26` and above.
+
 Note, that I currently only update the mod for the following Minecraft versions, and requests for any other versions will be denied:
 - 1.20.1
 - 1.20.6 (NeoForge only)
 - 1.21 (NeoForge only)
-
-The same goes for broken mod integrations. If you find that the mod crashes at any point, please [report it on GitHub](https://github.com/bl4ckscor3/CeilingTorch/issues) (include the crash report!), and turn off the conflicting mod integration in Ceiling Torch's `ceiling-torch-integrations.toml` config file until a fix is released. The config file is available in Ceiling Torch version `v1.26` and above.
 
 ---
 
