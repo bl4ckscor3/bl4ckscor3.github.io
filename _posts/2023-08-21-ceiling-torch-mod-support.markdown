@@ -20,7 +20,7 @@ Note, that I currently only update the mod for the following Minecraft versions,
 
 ---
 
-## Mod Integrations
+## <center>Mod Integrations</center>
 
 This list is up to date for Ceiling Torch `v1.31`. (Scroll down for more Minecraft versions)
 
