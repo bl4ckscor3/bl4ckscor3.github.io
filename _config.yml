@@ -4,6 +4,7 @@ author: bl4ckscor3
 timezone: "Europe/Berlin"
 avatar: "favicon.ico"
 round-avatar: true
+date_format: "%-d. %B %Y"
 
 description: >-
   Information about bl4ckscor3's projects.
