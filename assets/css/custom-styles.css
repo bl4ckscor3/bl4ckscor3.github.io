@@ -7,3 +7,12 @@ th {
     top: 0;
     z-index: 2000;
 }
+
+.resize {
+    height: 200px;
+}
+
+.left {
+    float: left;
+    margin-right: 1em;
+}

@@ -9,8 +9,8 @@ date_format: "%-d. %B %Y"
 description: >-
   Information about bl4ckscor3's projects.
 
-# navbar-links:
-#  Title: "link"
+navbar-links:
+  About Me: "pages/about_me"
 
 social-network-links:
   email: bl4ckscor33@gmail.com
