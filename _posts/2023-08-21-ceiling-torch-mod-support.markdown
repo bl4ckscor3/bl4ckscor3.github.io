@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ceiling Torch Mod Support"
-subtitle: "Last updated: 17. June 2025"
+subtitle: "Last updated: 27. July 2025"
 cover-img: /assets/img/ceiling-torch-cover.png
 thumbnail-img: /assets/img/ceiling-torch-thumbnail.png
 date: 2023-08-21 16:32:47 +0200
@@ -14,18 +14,18 @@ The same goes for broken mod integrations. If you find that the mod crashes at a
 Note, that I currently only update the mod on NeoForge for the following Minecraft versions, and requests for any other versions will be denied:
 - 1.21.1
 - 1.21.5
-- 1.21.6
+- 1.21.8
 
 ---
 
 ## <center>Mod Integrations</center>
 
-This list is up to date for Ceiling Torch `v1.32`.
+This list is up to date for Ceiling Torch `v1.33`.
 
-| Mod                                                                                                                  | 1.12.2 | 1.14.4 | 1.15.2 | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.2 | 1.19.3 | 1.19.4 | 1.20.1 | 1.20.2 | 1.20.4 | 1.20.6 | 1.21.1 | 1.21.3 | 1.21.4 | 1.21.5 | 1.21.6 |
+| Mod                                                                                                                  | 1.12.2 | 1.14.4 | 1.15.2 | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.2 | 1.19.3 | 1.19.4 | 1.20.1 | 1.20.2 | 1.20.4 | 1.20.6 | 1.21.1 | 1.21.3 | 1.21.4 | 1.21.5 | 1.21.8 |
 | -------------------------------------------------------------------------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | ------ |
-| [Additional Lights](https://www.curseforge.com/minecraft/mc-mods/additional-lights)                                  |        |        |        |   ✅   |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |        |        |   ✅   |   ✅   |   ✅   |        |        |
-| [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn-for-forge)                                                |        |        |        |        |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |   ✅   |        |   ✅   |        |        |        |        |
+| [Additional Lights](https://www.curseforge.com/minecraft/mc-mods/additional-lights)                                  |        |        |        |   ✅   |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |        |        |   ✅   |   ✅   |   ✅   |   ✅   | ✅     |
+| [Adorn](https://www.curseforge.com/minecraft/mc-mods/adorn-for-forge)                                                |        |        |        |        |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |   ✅   |        |   ✅   |        |        |   ✅   |        |
 | [Aquatic Torches](https://www.curseforge.com/minecraft/mc-mods/aquatic-torches)                                      |        |        |        |        |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |        |        |        |        |        |        |        |
 | [Atum 2: Return to the Sands](https://www.curseforge.com/minecraft/mc-mods/atum)                                     |        |        |   ✅   |   ✅   |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
 | [Bamboo Blocks](https://www.curseforge.com/minecraft/mc-mods/bamboo-blocks)                                          |        |   ✅   |   ✅   |   ✅   |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
@@ -39,20 +39,20 @@ This list is up to date for Ceiling Torch `v1.32`.
 | [Essential Features](https://www.curseforge.com/minecraft/mc-mods/essential-features)                                |        |   ✅   |   ✅   |   ✅   |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
 | [Extended Lights](https://www.curseforge.com/minecraft/mc-mods/extended-lights-mod)                                  |        |        |   ✅   |   ✅   |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
 | [Gaia Dimension](https://www.curseforge.com/minecraft/mc-mods/gaia-dimension)                                        |        |   ✅   |   ✅   |   ✅   |        |        |        |        |   ✅   |   ✅   |        |        |        |   ✅   |        |   ✅   |        |        |
-| [Hardcore Torches](https://www.curseforge.com/minecraft/mc-mods/hardcore-torches-forge)                              |        |        |        |        |        |   ✅   |   ✅   |   ✅   |        |   ✅   |        |        |        |        |        |        |        |        |
+| [Hardcore Torches](https://www.curseforge.com/minecraft/mc-mods/hardcore-torches-forge)                              |        |        |        |        |        |   ✅   |   ✅   |   ✅   |        |   ✅   |        |        |        |   ✅   |        |        |        |        |
 | [I Like Wood](https://www.curseforge.com/minecraft/mc-mods/i-like-wood)                                              |        |   ✅   |   ✅   |   ✅   |        |   ✅   |   ✅   |        |        |   ✅   |        |        |        |        |        |        |        |        |
 | [Ice and Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)                           |        |        |   ✅   |   ✅   |        |   ✅   |        |        |        |   ✅   |        |        |        |        |        |        |        |        |
 | [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)                                |        |        |        |   ✅   |        |   ✅   |   ✅   |        |        |        |        |        |        |        |        |        |        |        |
 | [Inspirations](https://www.curseforge.com/minecraft/mc-mods/inspirations)                                            |        |   ✅   |   ✅   |   ✅   |        |   ✅   |        |        |        |        |        |        |        |        |        |        |        |        |
 | [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)                              |        |        |        |   ✅   |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |   ✅   |        |   ✅   |        |   ✅   |        |        |
 | [Magical Torches](https://www.curseforge.com/minecraft/mc-mods/magical-torches)                                      |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |        |        |        |        |        |        |        |
-| [Malum](https://www.curseforge.com/minecraft/mc-mods/malum)                                                          |        |        |        |   ✅   |        |   ✅   |   ✅   |        |        |   ✅   |        |        |        |        |        |        |        |        |
+| [Malum](https://www.curseforge.com/minecraft/mc-mods/malum)                                                          |        |        |        |   ✅   |        |   ✅   |   ✅   |        |        |   ✅   |        |        |        |   ✅   |        |        |        |        |
 | [Mo' Shiz Mod](https://www.curseforge.com/minecraft/mc-mods/mo-shiz-mod)                                             |        |        |        |   ✅   |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |        |        |        |        |        |        |        |
 | [Nature's Debris](https://www.curseforge.com/minecraft/mc-mods/natures-debris)                                       |        |   ✅   |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
 | [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight)                                     |        |        |        |   ✅   |        |   ✅   |   ✅   |        |        |   ✅   |        |        |        |        |        |        |        |        |
 | [Nethercraft Classic](https://www.curseforge.com/minecraft/mc-mods/nethercraft-classic)                              |        |   ✅   |   ✅   |   ✅   |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
 | [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)                                                  |        |        |        |        |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |   ✅   |   ✅   |   ✅   |        |        |        |        |
-| [Pokecube AIO](https://www.curseforge.com/minecraft/mc-mods/pokecube-aoi)                                            |        |        |   ✅   |   ✅   |        |   ✅   |   ✅   |        |        |   ✅   |        |        |        |        |        |        |        |        |
+| [Pokecube AIO](https://www.curseforge.com/minecraft/mc-mods/pokecube-aoi)                                            |        |        |   ✅   |   ✅   |        |   ✅   |   ✅   |        |        |   ✅   |        |        |        |   ✅   |        |        |        |        |
 | [PrimalCore](https://www.curseforge.com/minecraft/mc-mods/primalcore)                                                |   ✅   |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
 | [ProjectE](https://www.curseforge.com/minecraft/mc-mods/projecte)                                                    |        |        |        |        |        |   ✅   |   ✅   |        |        |   ✅   |        |        |        |   ✅   |        |        |        |        |
 | [Reliquary Reincarnations](https://www.curseforge.com/minecraft/mc-mods/reliquary-reincarnations)                    |        |        |        |        |        |   ✅   |   ✅   |        |        |   ✅   |        |   ✅   |        |   ✅   |        |        |        |        |
@@ -62,16 +62,15 @@ This list is up to date for Ceiling Torch `v1.32`.
 | [The Lord of the Rings Mod: Renewed](https://www.curseforge.com/minecraft/mc-mods/the-lord-of-the-rings-mod-renewed) |        |        |   ✅   |   ✅   |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
 | [The Midnight](https://www.curseforge.com/minecraft/mc-mods/the-midnight)                                            |        |   ✅   |   ✅   |        |        |        |        |        | ❌[^1] |        |        |        |        |        |        |        |        |        |
 | [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)                                      |        |        |        |   ✅   |        |        |   ✅   |        |   ✅   |   ✅   |        |   ✅   |   ✅   |   ✅   |        |        |        |        |
-| [TofuCraftReload](https://www.curseforge.com/minecraft/mc-mods/tofucraftreload)                                      |        |   ✅   |   ✅   |   ✅   |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |  ✅[^2]      |
+| [TofuCraftReload](https://www.curseforge.com/minecraft/mc-mods/tofucraftreload)                                      |        |   ✅   |   ✅   |   ✅   |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   | ✅     |
 | [Torch Bandolier](https://www.curseforge.com/minecraft/mc-mods/torch-bandolier)                                      |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |   ✅   |   ✅   |   ✅   |        |        |        |        |
-| [Torcherino](https://www.curseforge.com/minecraft/mc-mods/torcherino)                                                |        |   ✅   |   ✅   |   ✅   | ❌[^3] |        |        |        |        |        |        |        |        |        |        |        |        |        |
+| [Torcherino](https://www.curseforge.com/minecraft/mc-mods/torcherino)                                                |        |   ✅   |   ✅   |   ✅   | ❌[^2] |        |        |        |        |        |        |        |        |        |        |        |        |        |
 | [Torchmaster](https://www.curseforge.com/minecraft/mc-mods/torchmaster)                                              |        |   ✅   |   ✅   |   ✅   |        |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |        |        |        |        |        |        |        |        |
 | [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)                                      |        |   ✅   |   ✅   |   ✅   |        |   ✅   |   ✅   |        |        |   ✅   |        |        |        |        |        |        |        |        |
 | [Wild Nature](https://www.curseforge.com/minecraft/mc-mods/wildnature)                                               |        |   ✅   |   ✅   |        |        |        |        |        |        |        |        |        |        |        |        |        |        |        |
 | [XyCraft: World](https://www.curseforge.com/minecraft/mc-mods/xycraft-world)                                         |        |        |        |        |        |        |   ✅   |        |        |   ✅   |        |        |        |   ✅   |        |        |        |        |
-| [[SBM] Bone Torch](https://www.curseforge.com/minecraft/mc-mods/sbm-bone-torch)                                      |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅     |
+| [[SBM] Bone Torch](https://www.curseforge.com/minecraft/mc-mods/sbm-bone-torch)                                      |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   | ✅     |
 
 ---
 [^1]: Can't add The Midnight support, as they have turned off 3rd party downloads so I can't easily import it into my development environment. Until they change that, or CurseMaven works with 3rd party downloads turned off, there will be no support for this mod.
-[^2]: Untested
-[^3]: Removed in Ceiling Torch v1.13.8 for technical reasons, and will not be readded in other Minecraft versions either.
+[^2]: Removed in Ceiling Torch v1.13.8 for technical reasons, and will not be readded in other Minecraft versions either.
