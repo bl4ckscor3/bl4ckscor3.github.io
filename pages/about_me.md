@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Hello! I'm bl4ckscor3, and I mostly create and maintain Minecraft mods! While those cover a big amount of my projects, I have also created software in different areas.
+Hello! I'm bl4ckscor3. I work on Minecraft as my job, and in my free time created and still maintain Minecraft mods! While those cover a big amount of my projects, I have also created software in different areas.
 Find a selection of my projects below!
 
 # Projects
