@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ceiling Torch Mod Support"
-subtitle: "Last updated: 06. July 2026"
+subtitle: "Last updated: 10. July 2026"
 cover-img: /assets/img/ceiling-torch-cover.png
 thumbnail-img: /assets/img/ceiling-torch-thumbnail.png
 date: 2023-08-21 16:32:47 +0200
